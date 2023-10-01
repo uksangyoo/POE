@@ -6,14 +6,14 @@ Soft robotic shape estimation and proprioception are challenging because of soft
 
 ## Results
 
-![arap](https://github.com/uksangyoo/POE/assets/11741608/d9dfec21-6bf1-4942-9451-a326bc19649b)
+![](assets/arap.gif)
 
-![results](https://github.com/uksangyoo/POE/assets/11741608/ea0872d6-5fcf-4b1b-9d30-138d8a0a6c59)
+![results](assets/results.gif)
 
-![feedback](https://github.com/uksangyoo/POE/assets/11741608/e718f8ea-85dd-4dfe-a1bd-1a551b7119dc)
+![feedback](assets/feedback.gif)
 
 ## Code
-Under preperation.
+Under preparation.
 
 ## Requirement
 
@@ -27,10 +27,10 @@ open3d>=0.10.0
 
 
 ## Dataset
-Under preperation
+Under preparation
 
 ## CAD Files
-Under preperation
+Under preparation
 
 ##Instructions
 
